@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a26c2abc-b200-441f-87f1-8d4db38c35bf" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wqQdCO8OZzf6WPYlMtfYsOg2Bx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\nowwork\jenkinsuse\nimp_py" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\nowwork\jenkinsuse\nimp_py\testcase" />
+      <recent name="D:\nowwork\NIMP\nimp_py\testcase" />
+      <recent name="D:\自动化测试\案例\testpytest\mypytest" />
+      <recent name="D:\自动化测试\案例\testpytest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_nimp.TestNimp.test_vid_nextpage">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="nimp_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="nimp_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <module name="nimp_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="nimp_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nimp_py" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="nimp_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\cll\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="nimp_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="nimp_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="nimp_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="nimp_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="nimp_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_nimp.TestNimp.test_daily_traffic" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="testpytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_nimp.TestNimp.test_daily_traffic&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_nimp.TestNimp.test_load_report" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="testpytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_nimp.TestNimp.test_load_report&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_nimp.TestNimp.test_search_dailyreport" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="testpytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_nimp.TestNimp.test_search_dailyreport&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_nimp.TestNimp.test_vid_nextpage" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="testpytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_nimp.TestNimp.test_vid_nextpage&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_nimp.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="testpytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/test_nimp.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.nimp_py" />
+      <item itemvalue="Python tests.pytest for test_nimp.TestNimp.test_vid_nextpage" />
+      <item itemvalue="Python tests.pytest for test_nimp.TestNimp.test_load_report" />
+      <item itemvalue="Python tests.pytest for test_nimp.TestNimp.test_search_dailyreport" />
+      <item itemvalue="Python tests.pytest for test_nimp.TestNimp.test_daily_traffic" />
+      <item itemvalue="Python tests.pytest in test_nimp.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_nimp.TestNimp.test_vid_nextpage" />
+        <item itemvalue="Python tests.pytest in test_nimp.py" />
+        <item itemvalue="Python tests.pytest for test_nimp.TestNimp.test_daily_traffic" />
+        <item itemvalue="Python tests.pytest for test_nimp.TestNimp.test_search_dailyreport" />
+        <item itemvalue="Python tests.pytest for test_nimp.TestNimp.test_load_report" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a26c2abc-b200-441f-87f1-8d4db38c35bf" name="Default" comment="" />
+      <created>1595907370371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595907370371</updated>
+      <workItem from="1629183726461" duration="2267000" />
+      <workItem from="1629278837848" duration="85000" />
+      <workItem from="1629278962857" duration="758000" />
+      <workItem from="1629342823722" duration="1063000" />
+      <workItem from="1629356916480" duration="3665000" />
+      <workItem from="1629440094890" duration="3607000" />
+      <workItem from="1629775813851" duration="6241000" />
+      <workItem from="1629858257417" duration="2776000" />
+      <workItem from="1629963144148" duration="6467000" />
+      <workItem from="1630029226983" duration="12698000" />
+      <workItem from="1630293592137" duration="9055000" />
+      <workItem from="1630391649530" duration="6173000" />
+      <workItem from="1630464314800" duration="7058000" />
+      <workItem from="1630564503653" duration="200000" />
+      <workItem from="1630637805943" duration="1078000" />
+      <workItem from="1630652085288" duration="2369000" />
+      <workItem from="1630654538174" duration="7533000" />
+      <workItem from="1630895167463" duration="13644000" />
+      <workItem from="1630978159439" duration="15279000" />
+      <workItem from="1631065691446" duration="5216000" />
+      <workItem from="1631080936111" duration="8181000" />
+      <workItem from="1631152112482" duration="15359000" />
+      <workItem from="1631238611325" duration="10277000" />
+      <workItem from="1631499152145" duration="11333000" />
+      <workItem from="1631584054244" duration="14112000" />
+      <workItem from="1631671574295" duration="10819000" />
+      <workItem from="1631756013302" duration="6102000" />
+      <workItem from="1631842758062" duration="9429000" />
+      <workItem from="1631929223136" duration="8123000" />
+      <workItem from="1632277561874" duration="3224000" />
+      <workItem from="1632361545077" duration="618000" />
+      <workItem from="1632363675334" duration="1633000" />
+      <workItem from="1632365374128" duration="5022000" />
+      <workItem from="1632449315548" duration="5419000" />
+      <workItem from="1632623721508" duration="6514000" />
+      <workItem from="1632707843178" duration="6670000" />
+      <workItem from="1632727637452" duration="4577000" />
+      <workItem from="1632795328072" duration="11661000" />
+      <workItem from="1632879679869" duration="218000" />
+      <workItem from="1632894877759" duration="7652000" />
+      <workItem from="1632910035983" duration="54000" />
+      <workItem from="1632910156331" duration="574000" />
+      <workItem from="1632966551702" duration="236000" />
+      <workItem from="1632970128769" duration="26000" />
+      <workItem from="1632970259520" duration="4962000" />
+      <workItem from="1633662217662" duration="3002000" />
+      <workItem from="1633675234859" duration="525000" />
+      <workItem from="1633675851695" duration="1873000" />
+      <workItem from="1633763846115" duration="4659000" />
+      <workItem from="1633917505437" duration="278000" />
+      <workItem from="1634032304952" duration="1125000" />
+      <workItem from="1634089957419" duration="16608000" />
+      <workItem from="1634119624844" duration="653000" />
+      <workItem from="1634175632535" duration="10488000" />
+      <workItem from="1634263417937" duration="10000000" />
+      <workItem from="1634536850727" duration="133000" />
+      <workItem from="1634629867372" duration="3955000" />
+      <workItem from="1634693756045" duration="8479000" />
+      <workItem from="1634780445354" duration="50000" />
+      <workItem from="1634887156478" duration="10000" />
+      <workItem from="1634887595450" duration="70000" />
+      <workItem from="1635212941745" duration="1886000" />
+      <workItem from="1635225814754" duration="4026000" />
+      <workItem from="1635834320517" duration="1078000" />
+      <workItem from="1636534745128" duration="3051000" />
+      <workItem from="1636595265682" duration="2193000" />
+      <workItem from="1636684997261" duration="53000" />
+      <workItem from="1636956833315" duration="799000" />
+      <workItem from="1637055635423" duration="1863000" />
+      <workItem from="1637115743909" duration="11249000" />
+      <workItem from="1637203646101" duration="4688000" />
+      <workItem from="1637218333684" duration="4518000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="108" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1634114638333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="108" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1634114638333" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1630044144023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1630044144023" />
+    <state x="527" y="245" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1634282479349">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="245" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1634282479349" />
+    <state x="558" y="137" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1634113587156">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="558" y="137" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1634113587156" />
+    <state x="383" y="258" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1634114637484">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="383" y="258" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1634114637484" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1637220084061">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1637220084061" />
+    <state x="472" y="150" key="FileChooserDialogImpl" timestamp="1637055793444">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="472" y="150" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1637055793444" />
+    <state width="1478" height="148" key="GridCell.Tab.0.bottom" timestamp="1637218107632">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1636537133712" />
+    <state width="1478" height="148" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1637218107632" />
+    <state width="1478" height="148" key="GridCell.Tab.0.center" timestamp="1637218107631">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1636537133711" />
+    <state width="1478" height="148" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1637218107631" />
+    <state width="1478" height="148" key="GridCell.Tab.0.left" timestamp="1637218107630">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1636537133711" />
+    <state width="1478" height="148" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1637218107630" />
+    <state width="1478" height="148" key="GridCell.Tab.0.right" timestamp="1637218107631">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1636537133711" />
+    <state width="1478" height="148" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1637218107631" />
+    <state width="1323" height="205" key="GridCell.Tab.1.bottom" timestamp="1636537917991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1636537133714" />
+    <state width="1323" height="205" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1636537917991" />
+    <state width="1323" height="205" key="GridCell.Tab.1.center" timestamp="1636537917991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1636537133713" />
+    <state width="1323" height="205" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1636537917991" />
+    <state width="1323" height="205" key="GridCell.Tab.1.left" timestamp="1636537917991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1636537133712" />
+    <state width="1323" height="205" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1636537917991" />
+    <state width="1323" height="205" key="GridCell.Tab.1.right" timestamp="1636537917991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1636537133714" />
+    <state width="1323" height="205" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1636537917991" />
+    <state x="140" y="60" key="SettingsEditor" timestamp="1636595480374">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="140" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1636595480374" />
+    <state x="483" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1637203649312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="483" y="334" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1637203649312" />
+    <state x="433" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1631085685498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="433" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1631085685498" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_view_httpimage.coverage" NAME="pytest for test_nimp.TestNimp.test_view_httpimage Coverage Results" MODIFIED="1630652794222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_testcase_test_nimp_TestNimp_test_add_focusweb.coverage" NAME="pytest for testcase.test_nimp.TestNimp.test_add_focusweb Coverage Results" MODIFIED="1631865645524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_search_dailyreport.coverage" NAME="pytest for test_nimp.TestNimp.test_search_dailyreport Coverage Results" MODIFIED="1637118908981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_search_httpaccount.coverage" NAME="pytest for test_nimp.TestNimp.test_search_httpaccount Coverage Results" MODIFIED="1631154053787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1631082122081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_testcase_test_nimp_TestNimp_test_hourly_traffic.coverage" NAME="pytest for testcase.test_nimp.TestNimp.test_hourly_traffic Coverage Results" MODIFIED="1631777029446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_editvid.coverage" NAME="pytest for test_nimp.TestNimp.test_editvid Coverage Results" MODIFIED="1632987058904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_edit_suspiciousgroup.coverage" NAME="pytest for test_nimp.TestNimp.test_edit_suspiciousgroup Coverage Results" MODIFIED="1634032559602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_add_focuswebip.coverage" NAME="pytest for test_nimp.TestNimp.test_add_focuswebip Coverage Results" MODIFIED="1634287399747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_search_suspiciousgroup.coverage" NAME="pytest for test_nimp.TestNimp.test_search_suspiciousgroup Coverage Results" MODIFIED="1631239747638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_search_httpaccount_date.coverage" NAME="pytest for test_nimp.TestNimp.test_search_httpaccount_date Coverage Results" MODIFIED="1634280305146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_search_emailaccount_receiver.coverage" NAME="pytest for test_nimp.TestNimp.test_search_emailaccount_receiver Coverage Results" MODIFIED="1634112062451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_hourly_service.coverage" NAME="pytest for test_nimp.TestNimp.test_hourly_service Coverage Results" MODIFIED="1634096081255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_search_emailaccount_sender.coverage" NAME="pytest for test_nimp.TestNimp.test_search_emailaccount_sender Coverage Results" MODIFIED="1634111015668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_six.coverage" NAME="pytest for test_nimp.TestNimp.test_six Coverage Results" MODIFIED="1629357456550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_edit_iprange.coverage" NAME="pytest for test_nimp.TestNimp.test_edit_iprange Coverage Results" MODIFIED="1632820704633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_seven.coverage" NAME="pytest for test_nimp.TestNimp.test_seven Coverage Results" MODIFIED="1629357001216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_load_keyworddefinition.coverage" NAME="pytest for test_nimp.TestNimp.test_load_keyworddefinition Coverage Results" MODIFIED="1631169138769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_mailimgdetail.coverage" NAME="pytest for test_nimp.TestNimp.test_mailimgdetail Coverage Results" MODIFIED="1630481768093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_httpresourcesearch.coverage" NAME="pytest for test_nimp.TestNimp.test_httpresourcesearch Coverage Results" MODIFIED="1631174338326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/testpytest$pytest_for_test_1_TestCase.coverage" NAME="pytest for test_1.TestCase Coverage Results" MODIFIED="1629183772647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mypytest" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_search_operator.coverage" NAME="pytest for test_nimp.TestNimp.test_search_operator Coverage Results" MODIFIED="1632813418546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_bala.coverage" NAME="pytest for test_nimp.TestNimp.test_bala Coverage Results" MODIFIED="1631611348463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_page_keyworddefinition.coverage" NAME="pytest for test_nimp.TestNimp.test_page_keyworddefinition Coverage Results" MODIFIED="1632904241116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_nextpage_suspiciousgroup.coverage" NAME="pytest for test_nimp.TestNimp.test_nextpage_suspiciousgroup Coverage Results" MODIFIED="1630996294102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_del2_keywordrule.coverage" NAME="pytest for test_nimp.TestNimp.test_del2_keywordrule Coverage Results" MODIFIED="1631672343445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/testpytest$pytest_for_test_1_TestCase_testone.coverage" NAME="pytest for test_1.TestCase.testone Coverage Results" MODIFIED="1629187001386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mypytest" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_search_keyworddefinition.coverage" NAME="pytest for test_nimp.TestNimp.test_search_keyworddefinition Coverage Results" MODIFIED="1631240431387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_search_emailaccount_subject.coverage" NAME="pytest for test_nimp.TestNimp.test_search_emailaccount_subject Coverage Results" MODIFIED="1634179832968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_edit_keywordrule.coverage" NAME="pytest for test_nimp.TestNimp.test_edit_keywordrule Coverage Results" MODIFIED="1632722389427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_view_emaildetail.coverage" NAME="pytest for test_nimp.TestNimp.test_view_emaildetail Coverage Results" MODIFIED="1631087142059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_add_iprange.coverage" NAME="pytest for test_nimp.TestNimp.test_add_iprange Coverage Results" MODIFIED="1632819114583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_del2_focusweb.coverage" NAME="pytest for test_nimp.TestNimp.test_del2_focusweb Coverage Results" MODIFIED="1631952777007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_for.coverage" NAME="pytest for test_nimp.TestNimp.test_for Coverage Results" MODIFIED="1629967493636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_search_emailaccount_clear.coverage" NAME="pytest for test_nimp.TestNimp.test_search_emailaccount_clear Coverage Results" MODIFIED="1634280383052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_edit_keyworddefinition.coverage" NAME="pytest for test_nimp.TestNimp.test_edit_keyworddefinition Coverage Results" MODIFIED="1632712958231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/testpytest$pytest_for_test_1_TestCase_test_three.coverage" NAME="pytest for test_1.TestCase.test_three Coverage Results" MODIFIED="1629343619769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mypytest" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_view_emailtrace.coverage" NAME="pytest for test_nimp.TestNimp.test_view_emailtrace Coverage Results" MODIFIED="1630312462867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_search_emailaccount_close.coverage" NAME="pytest for test_nimp.TestNimp.test_search_emailaccount_close Coverage Results" MODIFIED="1634280986968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_del2_staticip.coverage" NAME="pytest for test_nimp.TestNimp.test_del2_staticip Coverage Results" MODIFIED="1632464995520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_search_iprange.coverage" NAME="pytest for test_nimp.TestNimp.test_search_iprange Coverage Results" MODIFIED="1632649354138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_add_keyworddefinition.coverage" NAME="pytest for test_nimp.TestNimp.test_add_keyworddefinition Coverage Results" MODIFIED="1632712631447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_daily_traffic.coverage" NAME="pytest for test_nimp.TestNimp.test_daily_traffic Coverage Results" MODIFIED="1637119172427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_monthly_service.coverage" NAME="pytest for test_nimp.TestNimp.test_monthly_service Coverage Results" MODIFIED="1631761372274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_close_keywordrule.coverage" NAME="pytest for test_nimp.TestNimp.test_close_keywordrule Coverage Results" MODIFIED="1631608378722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_edit_focuswebip.coverage" NAME="pytest for test_nimp.TestNimp.test_edit_focuswebip Coverage Results" MODIFIED="1632366636897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_in_testcase.coverage" NAME="pytest in testcase Coverage Results" MODIFIED="1634117886758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_load_report.coverage" NAME="pytest for test_nimp.TestNimp.test_load_report Coverage Results" MODIFIED="1637118834714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_reset_regular.coverage" NAME="pytest for test_nimp.TestNimp.test_reset_regular Coverage Results" MODIFIED="1631863929675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_search_emailaccount.coverage" NAME="pytest for test_nimp.TestNimp.test_search_emailaccount Coverage Results" MODIFIED="1633675399201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_load_focusweb.coverage" NAME="pytest for test_nimp.TestNimp.test_load_focusweb Coverage Results" MODIFIED="1631846181063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_del_regular.coverage" NAME="pytest for test_nimp.TestNimp.test_del_regular Coverage Results" MODIFIED="1631863621254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_search_keywordrule.coverage" NAME="pytest for test_nimp.TestNimp.test_search_keywordrule Coverage Results" MODIFIED="1631585313456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_load_staticip.coverage" NAME="pytest for test_nimp.TestNimp.test_load_staticip Coverage Results" MODIFIED="1632387966379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_hourly_traffic.coverage" NAME="pytest for test_nimp.TestNimp.test_hourly_traffic Coverage Results" MODIFIED="1634699433192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_del_focusweb.coverage" NAME="pytest for test_nimp.TestNimp.test_del_focusweb Coverage Results" MODIFIED="1631944872402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_search_focusweb.coverage" NAME="pytest for test_nimp.TestNimp.test_search_focusweb Coverage Results" MODIFIED="1631847501046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_del_suspiciousgroup.coverage" NAME="pytest for test_nimp.TestNimp.test_del_suspiciousgroup Coverage Results" MODIFIED="1631613050984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_del2_keyworddefinition.coverage" NAME="pytest for test_nimp.TestNimp.test_del2_keyworddefinition Coverage Results" MODIFIED="1631614446302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_load_iprange.coverage" NAME="pytest for test_nimp.TestNimp.test_load_iprange Coverage Results" MODIFIED="1632636046099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_view_httpdetail.coverage" NAME="pytest for test_nimp.TestNimp.test_view_httpdetail Coverage Results" MODIFIED="1631155435456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_del_staticip.coverage" NAME="pytest for test_nimp.TestNimp.test_del_staticip Coverage Results" MODIFIED="1632464963261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_daily_service.coverage" NAME="pytest for test_nimp.TestNimp.test_daily_service Coverage Results" MODIFIED="1634288993051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_searchvid_email.coverage" NAME="pytest for test_nimp.TestNimp.test_searchvid_email Coverage Results" MODIFIED="1632895841942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_traffic.coverage" NAME="pytest for test_nimp.TestNimp.test_traffic Coverage Results" MODIFIED="1630306926842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_five.coverage" NAME="pytest for test_nimp.TestNimp.test_five Coverage Results" MODIFIED="1629442947955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_del_iprange.coverage" NAME="pytest for test_nimp.TestNimp.test_del_iprange Coverage Results" MODIFIED="1632798464424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_monthly_traffic.coverage" NAME="pytest for test_nimp.TestNimp.test_monthly_traffic Coverage Results" MODIFIED="1631700429456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_searchvid_vid.coverage" NAME="pytest for test_nimp.TestNimp.test_searchvid_vid Coverage Results" MODIFIED="1632895562668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/testpytest$py_test_in_test_1_py.coverage" NAME="pytest in test_1.py Coverage Results" MODIFIED="1629343585504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_nextpage_keywordrule.coverage" NAME="pytest for test_nimp.TestNimp.test_nextpage_keywordrule Coverage Results" MODIFIED="1632904996551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_search_httpaccount_close.coverage" NAME="pytest for test_nimp.TestNimp.test_search_httpaccount_close Coverage Results" MODIFIED="1634092430463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_del_focuswebip.coverage" NAME="pytest for test_nimp.TestNimp.test_del_focuswebip Coverage Results" MODIFIED="1634288405789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_view_mailimage.coverage" NAME="pytest for test_nimp.TestNimp.test_view_mailimage Coverage Results" MODIFIED="1636535300259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_add_suspiciousgroup.coverage" NAME="pytest for test_nimp.TestNimp.test_add_suspiciousgroup Coverage Results" MODIFIED="1632712075240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_del_keyworddefinition.coverage" NAME="pytest for test_nimp.TestNimp.test_del_keyworddefinition Coverage Results" MODIFIED="1631614364411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_load_operator.coverage" NAME="pytest for test_nimp.TestNimp.test_load_operator Coverage Results" MODIFIED="1632812993364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_load_suspiciousgroup.coverage" NAME="pytest for test_nimp.TestNimp.test_load_suspiciousgroup Coverage Results" MODIFIED="1634631382868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_search_ipinfo.coverage" NAME="pytest for test_nimp.TestNimp.test_search_ipinfo Coverage Results" MODIFIED="1632388655282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_add_keywordrule.coverage" NAME="pytest for test_nimp.TestNimp.test_add_keywordrule Coverage Results" MODIFIED="1632722341280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_del2_iprange.coverage" NAME="pytest for test_nimp.TestNimp.test_del2_iprange Coverage Results" MODIFIED="1632797321627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_load_keywordrule.coverage" NAME="pytest for test_nimp.TestNimp.test_load_keywordrule Coverage Results" MODIFIED="1631512565056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_three.coverage" NAME="pytest for test_nimp.TestNimp.test_three Coverage Results" MODIFIED="1629442965634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_testcase_test_nimp_TestNimp_test_search_emailaccount.coverage" NAME="pytest for testcase.test_nimp.TestNimp.test_search_emailaccount Coverage Results" MODIFIED="1631676068181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_vid_nextpage.coverage" NAME="pytest for test_nimp.TestNimp.test_vid_nextpage Coverage Results" MODIFIED="1637214929007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_accountinfo.coverage" NAME="pytest for test_nimp.TestNimp.test_accountinfo Coverage Results" MODIFIED="1634094013533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$nimp_py.coverage" NAME="nimp_py Coverage Results" MODIFIED="1634113471280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_close_focuswebip.coverage" NAME="pytest for test_nimp.TestNimp.test_close_focuswebip Coverage Results" MODIFIED="1632380289885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_search_emailaccount_date.coverage" NAME="pytest for test_nimp.TestNimp.test_search_emailaccount_date Coverage Results" MODIFIED="1634288763117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_del2_suspiciousgroup.coverage" NAME="pytest for test_nimp.TestNimp.test_del2_suspiciousgroup Coverage Results" MODIFIED="1631613322202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_testcase_test_nimp_TestNimp_test_close_regular.coverage" NAME="pytest for testcase.test_nimp.TestNimp.test_close_regular Coverage Results" MODIFIED="1632625964722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_view_httpaccount.coverage" NAME="pytest for test_nimp.TestNimp.test_view_httpaccount Coverage Results" MODIFIED="1630312029156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_del_keywordrule.coverage" NAME="pytest for test_nimp.TestNimp.test_del_keywordrule Coverage Results" MODIFIED="1631611943001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_add_focusweb.coverage" NAME="pytest for test_nimp.TestNimp.test_add_focusweb Coverage Results" MODIFIED="1634191546202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_httpimgdetail.coverage" NAME="pytest for test_nimp.TestNimp.test_httpimgdetail Coverage Results" MODIFIED="1630467667564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_add_staticip.coverage" NAME="pytest for test_nimp.TestNimp.test_add_staticip Coverage Results" MODIFIED="1632723593289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_set_regular.coverage" NAME="pytest for test_nimp.TestNimp.test_set_regular Coverage Results" MODIFIED="1636596353087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$configuration.coverage" NAME="configuration Coverage Results" MODIFIED="1630978993341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/business" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_edit_staticip.coverage" NAME="pytest for test_nimp.TestNimp.test_edit_staticip Coverage Results" MODIFIED="1637117697007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_page_focusweb.coverage" NAME="pytest for test_nimp.TestNimp.test_page_focusweb Coverage Results" MODIFIED="1632289290905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp.coverage" NAME="pytest for test_nimp.TestNimp Coverage Results" MODIFIED="1629357306292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_searchimg_name.coverage" NAME="pytest for test_nimp.TestNimp.test_searchimg_name Coverage Results" MODIFIED="1636537133685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_one.coverage" NAME="pytest for test_nimp.TestNimp.test_one Coverage Results" MODIFIED="1629443000367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_edit_focusweb.coverage" NAME="pytest for test_nimp.TestNimp.test_edit_focusweb Coverage Results" MODIFIED="1632722784877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_in_test_nimp_py.coverage" NAME="pytest in test_nimp.py Coverage Results" MODIFIED="1637130269522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_searchvid_realname.coverage" NAME="pytest for test_nimp.TestNimp.test_searchvid_realname Coverage Results" MODIFIED="1632818955976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/testpytest$pytest_for_test_1_TestCase_test_one.coverage" NAME="pytest for test_1.TestCase.test_one Coverage Results" MODIFIED="1629187033737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mypytest" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_view_emailaccount.coverage" NAME="pytest for test_nimp.TestNimp.test_view_emailaccount Coverage Results" MODIFIED="1630309626416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$test.coverage" NAME="test Coverage Results" MODIFIED="1634284395203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_searchvid_clear.coverage" NAME="pytest for test_nimp.TestNimp.test_searchvid_clear Coverage Results" MODIFIED="1632970441547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/nimp_py$pytest_for_test_nimp_TestNimp_test_searchvid_close.coverage" NAME="pytest for test_nimp.TestNimp.test_searchvid_close Coverage Results" MODIFIED="1633677095882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
