@@ -35,8 +35,11 @@ def pytest_runtest_makereport(item, call):
     OUTPUTS_DIR = "..\pic"
     print(rep.nodeid)
     file_name = OUTPUTS_DIR + "\\{}.png".format(datetime.strftime(datetime.now(), "%Y%m%d%H%M%S"))
-    if rep.when == "call" and rep.failed:
-        driver.save_screenshot(file_name)
-        with open(file_name, mode='rb') as f:
-            file = f.read()
-        allure.attach(file, "失败截图", allure.attachment_type.PNG)
+	try:
+		if rep.when == "call" and rep.failed:
+			driver.save_screenshot(file_name)
+			with open(file_name, mode='rb') as f:
+				file = f.read()
+			allure.attach(file, "失败截图", allure.attachment_type.PNG)
+	except Exception as e:
+		print(e)
