@@ -32,14 +32,14 @@ def pytest_runtest_makereport(item, call):
     # 获取钩子方法的调用结果
     outcome = yield
     rep = outcome.get_result()
-    OUTPUTS_DIR = "..\pic"
+    OUTPUTS_DIR = ".\pic"
     print(rep.nodeid)
     file_name = OUTPUTS_DIR + "\\{}.png".format(datetime.strftime(datetime.now(), "%Y%m%d%H%M%S"))
-	try:
-		if rep.when == "call" and rep.failed:
-			driver.save_screenshot(file_name)
-			with open(file_name, mode='rb') as f:
-				file = f.read()
-			allure.attach(file, "失败截图", allure.attachment_type.PNG)
-	except Exception as e:
-		print(e)
+    try:
+        if rep.when == "call" and rep.failed:
+            driver.save_screenshot(file_name)
+            with open(file_name, mode='rb') as f:
+                file = f.read()
+            allure.attach(file, "失败截图", allure.attachment_type.PNG)
+    except Exception as e:
+        print(e)

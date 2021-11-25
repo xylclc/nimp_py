@@ -741,6 +741,7 @@ def del_focuswebip(browser):
         browser.find_element("xpath", "//*[text()='Yes']").click()
         sleep(2)
         browser.switch_to.frame("mainFrame")
+        sleep(2)
         if len(browser.find_elements("xpath","//*[text()='Information requested is not found.']")):
             return True
         else:

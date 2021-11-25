@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a26c2abc-b200-441f-87f1-8d4db38c35bf" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/business/configuration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/20211117150822.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/20211117150824.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/20211117160214.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/20211117160451.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/20211117160453.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/20211117160456.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/20211117160457.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/20211117160531.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/20211118105437.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/20211118105443.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/20211118105952.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/20211118110300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/20211118110450.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic/20211118112944.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/conftest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -402,6 +417,7 @@
       <workItem from="1637203646101" duration="4688000" />
       <workItem from="1637218333684" duration="4518000" />
       <workItem from="1637804462551" duration="23000" />
+      <workItem from="1637822473082" duration="57000" />
     </task>
     <servers />
   </component>
