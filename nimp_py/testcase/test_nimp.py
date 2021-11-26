@@ -132,19 +132,6 @@ class TestNimp:
         newname, randname,edittime,mytime = co.edit_focusweb(browser)
         assert newname == "http://"+randname+".com" and edittime==mytime
 
-    def test_del2_focusweb(self,browser):
-        oldname, newname = co.del2_focusweb(browser)
-        assert newname == oldname
-
-    def test_del_focusweb(self,browser):
-        oldname,newname=co.del_focusweb(browser)
-        assert newname!=oldname
-
-
-    def test_page_focusweb(self,browser):
-        page = co.page_focusweb(browser)
-        assert page == "11."
-
     def test_add_focuswebip(self,browser):
         newip, randip = co.add_focuswebip(browser)
         assert newip == randip
@@ -160,6 +147,21 @@ class TestNimp:
     def test_close_focuswebip(self,browser):
         title=co.close_focuswebip(browser)
         assert title=="Focused Website"
+
+
+    def test_del2_focusweb(self, browser):
+        oldname, newname = co.del2_focusweb(browser)
+        assert newname == oldname
+
+
+    def test_del_focusweb(self, browser):
+        oldname, newname = co.del_focusweb(browser)
+        assert newname != oldname
+
+
+    def test_page_focusweb(self, browser):
+        page = co.page_focusweb(browser)
+        assert page == "11."
 
     def test_load_staticip(self,browser):
         title=co.load_staticip(browser)
