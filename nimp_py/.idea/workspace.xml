@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a26c2abc-b200-441f-87f1-8d4db38c35bf" name="Default" comment="test1125">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/test_nimp.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/test_nimp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/conftest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../testtest/nimp_py" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RecentsManager">
@@ -409,7 +409,8 @@
       <workItem from="1637218333684" duration="4518000" />
       <workItem from="1637804462551" duration="23000" />
       <workItem from="1637822473082" duration="344000" />
-      <workItem from="1637912217188" duration="101000" />
+      <workItem from="1637912217188" duration="735000" />
+      <workItem from="1638149896847" duration="1327000" />
     </task>
     <task id="LOCAL-00001" summary="test1125">
       <created>1637822583632</created>
@@ -418,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637822583632</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test1125">
+      <created>1637912344327</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637912344328</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -453,14 +461,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1637220084061" />
-    <state x="837" y="21" key="CommitChangelistDialog2" timestamp="1637822581400">
+    <state x="837" y="21" key="CommitChangelistDialog2" timestamp="1637912353721">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="837" y="21" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1637822581400" />
-    <state x="472" y="150" key="FileChooserDialogImpl" timestamp="1637055793444">
+    <state x="837" y="21" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1637912353721" />
+    <state x="472" y="150" key="FileChooserDialogImpl" timestamp="1638154256070">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="472" y="150" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1637055793444" />
+    <state x="472" y="150" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1638154256070" />
     <state width="1478" height="148" key="GridCell.Tab.0.bottom" timestamp="1637218107632">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -505,10 +513,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="140" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1636595480374" />
-    <state x="483" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1637912225089">
+    <state x="483" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1638149896754">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="483" y="334" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1637912225089" />
+    <state x="483" y="334" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1638149896754" />
     <state x="433" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1631085685498">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
