@@ -34,7 +34,7 @@ def pytest_runtest_makereport(item, call):
     # 获取钩子方法的调用结果
     outcome = yield
     rep = outcome.get_result()
-    OUTPUTS_DIR = ".\pic"
+    OUTPUTS_DIR = ".\\pic"
     print(os.getcwd())
     file_name = OUTPUTS_DIR + "\\{}.png".format(datetime.strftime(datetime.now(), "%Y%m%d%H%M%S"))
     try:
