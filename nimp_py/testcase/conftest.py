@@ -35,7 +35,7 @@ def pytest_runtest_makereport(item, call):
     outcome = yield
     rep = outcome.get_result()
     OUTPUTS_DIR = ".\\pic"
-    print(os.getcwd())
+    print("================="+os.getcwd())
     file_name = OUTPUTS_DIR + "\\{}.png".format(datetime.strftime(datetime.now(), "%Y%m%d%H%M%S"))
     try:
         if rep.when == "call" and rep.failed:
